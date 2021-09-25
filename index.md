@@ -49,6 +49,6 @@ A console based software that takes in a text file as input and compresses and o
 
 I've been trying to solve a lot of Leetcode questions on my own time. Here are some questions I have either solved, not solved, or thought about solving.
 
-- [x] Two Sum
+- [x] [Two Sum](./twosum.md)
 - [ ] Add Two Numbers
 - [x] Nth Tribonacci Number
