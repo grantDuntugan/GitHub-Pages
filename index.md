@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # Grant Duntugan
 
 ## Who am I?
@@ -34,8 +36,8 @@ Here are some of the projects I have created:
 
 A productivity app designed to use competitivity in order to boost your motivation! Gain points through productive activities in order to rank higher than your friends and gain arbitrary rewards. Most of the app is user-decided, allowing a lot of flexibility when creating groups, designing tasks, and of course, redeeming rewards.
 
-![Espresso landing page](./img/esp.png)
-![Espresso leaderboard page](./img/ld.png)
+![Espresso landing page](https://github.com/grantDuntugan/GitHub-Pages/img/esp.png)
+![Espresso leaderboard page](https://github.com/grantDuntugan/GitHub-Pages/img/id.png)
 
 > The link to the repository can be found [here](https://gitlab.com/sdsc-rds/rds-interns-su21/team-meight/espresso).
 
@@ -52,3 +54,5 @@ I've been trying to solve a lot of Leetcode questions on my own time. Here are s
 - [x] [Two Sum](./twosum.md)
 - [ ] Add Two Numbers
 - [x] Nth Tribonacci Number
+
+[Back To Top](#top)
