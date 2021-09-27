@@ -2,6 +2,8 @@
 
 # Grant Duntugan
 
+![cat](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.independent.co.uk%2F2021%2F06%2F16%2F08%2FnewFile-4.jpg%3Fwidth%3D982%26height%3D726%26auto%3Dwebp%26quality%3D75&imgrefurl=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fuk%2Fhome-news%2Fcat-returns-home-cremation-cheshire-b1866833.html&tbnid=FcZZAF2FstCikM&vet=12ahUKEwiFyO_OqaDzAhVxGzQIHTGnDWYQMygHegUIARDZAQ..i&docid=BkYU4dvAfoa24M&w=982&h=726&itg=1&q=cat&ved=2ahUKEwiFyO_OqaDzAhVxGzQIHTGnDWYQMygHegUIARDZAQ)
+
 ## Who am I?
 
 I am a programmer who goes to the University of California, San Diego. I am currently in my 3rd year, and I plan to graduate in 2023.
@@ -35,9 +37,6 @@ Here are some of the projects I have created:
 # 1. Espresso (_React Native, Firebase_)
 
 A productivity app designed to use competitivity in order to boost your motivation! Gain points through productive activities in order to rank higher than your friends and gain arbitrary rewards. Most of the app is user-decided, allowing a lot of flexibility when creating groups, designing tasks, and of course, redeeming rewards.
-
-![Espresso landing page](https://github.com/grantDuntugan/GitHub-Pages/img/esp.png)
-![Espresso leaderboard page](https://github.com/grantDuntugan/GitHub-Pages/img/ld.png)
 
 
 > The link to the repository can be found [here](https://gitlab.com/sdsc-rds/rds-interns-su21/team-meight/espresso).
