@@ -36,8 +36,8 @@ Here are some of the projects I have created:
 
 A productivity app designed to use competitivity in order to boost your motivation! Gain points through productive activities in order to rank higher than your friends and gain arbitrary rewards. Most of the app is user-decided, allowing a lot of flexibility when creating groups, designing tasks, and of course, redeeming rewards.
 
-![Espresso landing page](https://github.com/grantDuntugan/GitHub-Pages/blob/main/img/esp.png)
-![Espresso leaderboard page](https://github.com/grantDuntugan/GitHub-Pages/blob/main/img/ld.png)
+![Espresso landing page](https://raw.github.com/grantDuntugan/GitHub-Pages/blob/main/img/esp.png)
+![Espresso leaderboard page](https://raw.github.com/grantDuntugan/GitHub-Pages/blob/main/img/ld.png)
 
 > The link to the repository can be found [here](https://gitlab.com/sdsc-rds/rds-interns-su21/team-meight/espresso).
 
